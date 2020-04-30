@@ -1,0 +1,15 @@
+C:\Users\Subodh\source\repos\Database manager\Database manager\bin\Debug\Database manager.exe.config
+C:\Users\Subodh\source\repos\Database manager\Database manager\bin\Debug\Database manager.exe
+C:\Users\Subodh\source\repos\Database manager\Database manager\bin\Debug\Database manager.pdb
+C:\Users\Subodh\source\repos\Database manager\Database manager\bin\Debug\MySql.Data.DLL
+C:\Users\Subodh\source\repos\Database manager\Database manager\bin\Debug\Google.Protobuf.dll
+C:\Users\Subodh\source\repos\Database manager\Database manager\bin\Debug\Renci.SshNet.dll
+C:\Users\Subodh\source\repos\Database manager\Database manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database manager.csprojAssemblyReference.cache
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database_manager.Form1.resources
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database_manager.Properties.Resources.resources
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database manager.csproj.GenerateResource.cache
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database manager.csproj.CoreCompileInputs.cache
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database manager.csproj.CopyComplete
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database manager.exe
+C:\Users\Subodh\source\repos\Database manager\Database manager\obj\Debug\Database manager.pdb
